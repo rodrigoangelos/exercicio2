@@ -6,6 +6,23 @@
 
 ---
 
+## Decisões do Grill — Registro de Escopo
+
+Durante a sessão `/grill-me` (C_grill_transcript.md), as seguintes decisões moldaram as escolhas deste mapa:
+
+| Pergunta | Opção escolhida | Justificativa registrada |
+|---|---|---|
+| **P1 — Escopo da jornada** | C — Escopo misto | Jornada completa no mapa, com destaque para os momentos de interação com a URA. O v3 já cobria a jornada completa; descartar isso desperdiçaria o trabalho produzido. |
+| **P2 — Produto final** | A — O mapa em si | Produzir o mapa diretamente, usando o v3 como insumo, é mais útil do que produzir um prompt que produza o mapa. |
+| **P3 — Uso final** | C — Projeto profissional/aplicado | Pontos abertos tratados como inferência marcada, para que o mapa seja utilizável na prática. |
+| **P4 — Propósito (Passo 0)** | A — Endereçar failure demand | Propósito focado em reduzir recontato e failure demand no canal 0800, o mais acionável dado o material do v3. |
+| **P5 — Cidadão central** | D — CLT com exclusão digital | Trabalhador formal CLT demitido sem justa causa, **com baixo letramento digital**, para quem o canal telefônico é a via principal ou única. Esse sub-grupo é o centro do problema de failure demand — não o trabalhador digital fluente que resolve pelo app. Escolha deliberada: excluir o perfil digital-fluente do núcleo do mapa para manter o foco no propósito. |
+| **P6 — Órgãos de controle** | D — Apenas TCU e CGU | Incluir apenas atores com interface comprovada com este serviço. TCU já auditou o programa (citado no v3); CGU opera o Fala.BR, canal de reclamação já presente no v3. Procon e MPT excluídos por não terem evidência de interface documentada com a URA especificamente. |
+| **P7 — Intermediários** | B — Periféricos com incentivo paradoxal explícito | Sindicatos e advogados incluídos como atores que lucram com a complexidade e resistem à simplificação — força relevante para endereçar failure demand. Presença no fluxo regular do 0800 não confirmada; posicionados no fluxo de recurso por indeferimento. |
+| **P8 — Formato** | D — Markdown com Mermaid | Consistente com o material existente; diagrama de relações renderiza visualmente em ferramentas compatíveis. |
+
+---
+
 ## Passo 0 — Propósito
 
 **Problema central:** Trabalhadores com baixo letramento digital ligam para o 0800 726 0207 como única via de acesso ao Seguro-Desemprego. Quando o primeiro contato não resolve — seja por limite de escopo da URA, seja por transbordo para humano com competência restrita — o trabalhador retorna múltiplas vezes, gerando **failure demand** sistêmica.
