@@ -1,6 +1,5 @@
 # Exercício 2 — Mapa de Atores da Jornada de um Serviço Público
 
-**Autor:** Rodrigo Angelos
 
 ## Índice
 
